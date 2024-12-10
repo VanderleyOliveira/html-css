@@ -1,7 +1,11 @@
 # Tela de login com tema dark
 Nesse projeto, desenvolvi uma tela estática de login no popular tema `Dark`
 
-![](./src/public/print-login-dark.svg)
+<div align="center">
+  
+  ![print da tela login dark](./src/public/print-login-dark.svg)
+  
+</div>
 
 ## Stacks do projeto:
 - HTML5
